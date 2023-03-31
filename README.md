@@ -1,10 +1,11 @@
 # HeroVillage
 Idle game for a group
 
-# Dependencies
-
-1. Installed Pip
-1. pip install Flask pymongo
-1. Installed Git
-
+# FYI
+- Check current IP with command 
+> url ifconfig.me
+- Run instance with command
+> flask run --host 0.0.0.0
+- Host flag makes it external, it will run on 5000 by default
+- go to website as http://IP:5000
 
