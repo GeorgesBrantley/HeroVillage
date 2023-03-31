@@ -1,5 +1,10 @@
 # HeroVillage
 Idle game for a group
 
-# TODO here
+# Dependencies
+
+1. Installed Pip
+1. pip install Flask pymongo
+1. Installed Git
+
 
